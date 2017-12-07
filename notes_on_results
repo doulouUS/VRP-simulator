@@ -1,0 +1,17 @@
+
+
+First test
+    SGDClassifier
+    beta = 0.5 in 0, 1000
+    beta = 0.3 in 1001, 5000
+    beta = 0.1 in 5001, 15000
+    beta = 0.01 rest
+
+Second test
+    SGDClassifier
+    beta = 0.5 in 0, 3000
+    beta = 0.3 in 3001, 15000
+    beta = 0.1 rest
+
+Third test
+    SGD
